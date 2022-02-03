@@ -30,6 +30,6 @@ void print_triangle(int leftCol, int size)
 void print_arrow()
 {
   print_triangle(5, 6);
-  print_square(9, 5);  
+  print_square(9, 6);  
 }
 
